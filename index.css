@@ -1,0 +1,57 @@
+.title
+{ color :rgb(246, 226, 4);
+    padding: 0px;
+    margin-left: 0px;
+    }
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(233, 158, 9);
+}
+.logo {
+width: 150px;
+margin-top: 2px; 
+}
+.Nav-bar >ul {
+    display: flex;
+    list-style-type:none;    
+}
+.Star {
+    color: rgb(8, 8, 8);
+    background: #07dc59;
+    margin-right: 150px;
+}
+    
+
+.Nav-bar > ul > li {
+    padding: 0px;
+    margin: 10px;
+
+}
+.PIZZIMG {
+    width:200px;
+}
+.Resturdant{
+    width: 200px;
+    height: 330px;
+     margin: 17px;
+    padding: 5px;
+    
+    }
+.Resturdant:hover{
+    border: solid black;
+    cursor: pointer;
+
+}
+.Res-Container {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.Address{
+    background-color: rgb(233, 158, 9);
+    
+    
+}
+    
+
